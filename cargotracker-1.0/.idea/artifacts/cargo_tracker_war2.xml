@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cargo-tracker:war2">
+    <output-path>$PROJECT_DIR$/classes/artifacts/cargo_tracker_war2</output-path>
+    <root id="archive" name="cargo-tracker_war.war">
+      <element id="artifact" artifact-name="cargo-tracker:war exploded" />
+    </root>
+  </artifact>
+</component>
